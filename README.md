@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center" style="margin-bottom: 40px;">
+    <h1>Hello there, I'm Francisco Bastos </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=FranciscoBastos&show_icons=true&theme=tokyonight"
