@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div align="center" style="margin-bottom: 40px;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=FranciscoBastos&show_icons=true&theme=tokyonight"
@@ -27,16 +27,19 @@ Here are some ideas to get you started:
     />
     <img src="https://github-readme-stats.vercel.app/api?username=FranciscoBastos&show_icons=true&theme=tokyonight" />
   </picture>
+</div>
 
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-    <a href="https://github.com/FranciscoBastos/FranciscoBastos">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBastos&layout=donut&theme=tokyonight" alt="Top Langs" />
-    </a>
-  </div>
+<div align="center" style="margin-bottom: 40px;">
+  <a href="https://github.com/FranciscoBastos/FranciscoBastos">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBastos&layout=donut&theme=tokyonight" alt="Top Langs" />
+  </a>
 </div>
 
 <div align="center">
   <p><strong>Visitor Count</strong></p>
   <img src="https://profile-counter.glitch.me/{FranciscoBastos}/count.svg" alt="Visitor Count" />
+</div>
+
+<div align="center" style="margin-top: 40px;">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
