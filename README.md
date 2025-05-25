@@ -4,21 +4,20 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-I'm a Bosch Software Engineer, based in Braga, Portugal 📍 🇵🇹
+I'm a Bosch Software Engineer, based in Braga, Portugal 📍🇵🇹.
 
-I've got a bachelors (ISEP), and a masters (FEUP) in software engineering 🎓
+I've got a bachelors (ISEP), and a masters (FEUP) in software engineering 🎓.
 
-I’ve made several internships in both industrial and academia 📡 
+I’ve made several internships in both industrial and academia 📡.
 
-My master's dissertation was made in partnership with Bosch, on Validating Perception Algorithms Performance (for Autonomous Driving Applications) based on a Scenario Generation ✅ <br>
+My master's dissertation was made in partnership with Bosch, on Validating Perception Algorithms Performance (for Autonomous Driving Applications) based on a Scenario Generation ✅.
 
-Currently, I'm working on Multi-Model Synthetic Sensor Data Generation, for Autonomous Driving Vehicles Development 🚗 📷 <br>
-
+Currently, I'm working on Multi-Model Synthetic Sensor Data Generation, for Autonomous Driving Vehicles Development 🚗📷.
 
 <img src="images/self-driving-car-automatic-car.gif" alt="Self-Driving Car GIF" width="600" />
 
 <h2 align="left"><strong>A joke for the road 🍺</strong></h2>
-<div align="left" style="margin-bottom: 40px;">
+<div align="left" style="margin-bottom: 20px;">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
@@ -53,11 +52,11 @@ Currently, I'm working on Multi-Model Synthetic Sensor Data Generation, for Auto
   </a>
 </div>
 
-<h2> <strong> Find me at: </strong> </h2>
+<h2 align="center"><strong> Find me at: </strong></h2>
+<div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-FranciscoBastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-jos%C3%A9-fortuna-bastos-031369160/)](https://www.linkedin.com/in/francisco-jos%C3%A9-fortuna-bastos-031369160/)
-[![Facebook Badge](https://img.shields.io/badge/-FranciscoBastos-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/francisco.bastos.9022)](https://www.facebook.com/francisco.bastos.9022)
-[![Instagram Badge](https://img.shields.io/badge/-FranciscoBastos-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/francisco_jf_bastos/)](https://www.instagram.com/francisco_jf_bastos/)
+[![Linkedin Badge](https://img.shields.io/badge/-FranciscoBastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-jos%C3%A9-fortuna-bastos-031369160/)](https://www.linkedin.com/in/francisco-jos%C3%A9-fortuna-bastos-031369160/)   [![Facebook Badge](https://img.shields.io/badge/-FranciscoBastos-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/francisco.bastos.9022)](https://www.facebook.com/francisco.bastos.9022) [![Instagram Badge](https://img.shields.io/badge/-FranciscoBastos-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/francisco_jf_bastos/)](https://www.instagram.com/francisco_jf_bastos/)
+</div>
 
 <h3 align="center"><strong> You are visitor number: <strong></h3>
 <div align="center">
