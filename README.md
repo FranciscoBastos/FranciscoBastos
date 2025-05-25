@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=FranciscoBastos.FranciscoBastos&left_color=green&right_color=red)
+![Visitor Count](https://profile-counter.glitch.me/{FranciscoBastos}/count.svg)
