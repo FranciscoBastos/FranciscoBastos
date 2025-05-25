@@ -23,11 +23,11 @@ Currently, I'm working on Multi-Model Synthetic Sensor Data Generation, for Auto
 
 <h2 align="left"><strong>I'm passionate for ❤️🚀</strong></h2>
 
-- Technology 🤖
-- Science 🧪
-- Reading 📖
-- Sports 🏉
-- Small adventures 🏔️
+- Technology 🤖.
+- Science 🧪.
+- Reading 📖.
+- Sports 🏉.
+- Small adventures 🏔️.
 
 <div align="left" style="margin-bottom: 40px;">
 <h2 align="left"> <strong> Stats 📈 <strong> </h2>
@@ -55,7 +55,8 @@ Currently, I'm working on Multi-Model Synthetic Sensor Data Generation, for Auto
 <h2 align="center"><strong> Find me at: </strong></h2>
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-FranciscoBastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-jos%C3%A9-fortuna-bastos-031369160/)](https://www.linkedin.com/in/francisco-jos%C3%A9-fortuna-bastos-031369160/)   [![Facebook Badge](https://img.shields.io/badge/-FranciscoBastos-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/francisco.bastos.9022)](https://www.facebook.com/francisco.bastos.9022) [![Instagram Badge](https://img.shields.io/badge/-FranciscoBastos-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/francisco_jf_bastos/)](https://www.instagram.com/francisco_jf_bastos/)
+[![Linkedin Badge](https://img.shields.io/badge/-FranciscoBastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-jos%C3%A9-fortuna-bastos-031369160/)](https://www.linkedin.com/in/francisco-jos%C3%A9-fortuna-bastos-031369160/) [![Facebook Badge](https://img.shields.io/badge/-FranciscoBastos-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/francisco.bastos.9022)](https://www.facebook.com/francisco.bastos.9022) [![Instagram Badge](https://img.shields.io/badge/-FranciscoBastos-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/francisco_jf_bastos/)](https://www.instagram.com/francisco_jf_bastos/)
+
 </div>
 
 <h3 align="center"><strong> You are visitor number: <strong></h3>
