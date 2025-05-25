@@ -29,9 +29,10 @@ Here are some ideas to get you started:
   </picture>
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <!-- HTML -->
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBastos&layout=donut&theme=tokyonight)](https://github.com/FranciscoBastos/FranciscoBastos)
+    <a href="https://github.com/FranciscoBastos/FranciscoBastos">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBastos&layout=donut&theme=tokyonight" alt="Top Langs" />
+    </a>
   </div>
 </div>
 
