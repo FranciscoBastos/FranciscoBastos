@@ -1,20 +1,26 @@
-<!--
-**FranciscoBastos/FranciscoBastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center" style="margin-bottom: 40px;">
     <h1>Hello there, I'm Francisco Bastos </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+<br>I'm a Bosch Software Engineer,
+<br>based in Braga, Portugal,
+<br>currently working on synthetic data generation for Autonomous Driving Vehicles.
+<br>
+<img src="images/self-driving-car-automatic-car.gif" alt="Self-Driving Car GIF" width="600" />
+
+<h2 align="left">Passionate about technology</h2>
+
+- Technology
+- Science
+- Reading
+- Sports
+- Small adventures
+
+<div align="center" style="margin-bottom: 40px;">
+<h2 aligh="left"> Stats </h2>
+<h3> General Summary on Personal projects<h3>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=FranciscoBastos&show_icons=true&theme=tokyonight"
