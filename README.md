@@ -35,11 +35,11 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div align="center">
-  <p><strong>Visitor Count</strong></p>
-  <img src="https://profile-counter.glitch.me/{FranciscoBastos}/count.svg" alt="Visitor Count" />
+<div align="center" style="margin-bottom: 40px;">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
 <div align="center" style="margin-top: 40px;">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <p><strong>Visitor Count</strong></p>
+  <img src="https://profile-counter.glitch.me/{FranciscoBastos}/count.svg" alt="Visitor Count" />
 </div>
