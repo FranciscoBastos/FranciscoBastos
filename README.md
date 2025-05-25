@@ -6,11 +6,13 @@
 
 I'm a Bosch Software Engineer, based in Braga, Portugal 📍 🇵🇹
 I've got a bachelors (ISEP), and a masters (FEUP) in software engineering 🎓
+
 I’ve made several internships in both industrial and academia 📡 
 
 My master's dissertation was made in partnership with Bosch, on Validating Perception Algorithms Performance (for Autonomous Driving Applications) based on a Scenario Generation ✅ <br>
 
 Currently, I'm working on Multi-Model Synthetic Sensor Data Generation, for Autonomous Driving Vehicles Development 🚗 📷 <br>
+
 
 <img src="images/self-driving-car-automatic-car.gif" alt="Self-Driving Car GIF" width="600" />
 
