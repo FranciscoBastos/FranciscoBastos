@@ -5,6 +5,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 I'm a Bosch Software Engineer, based in Braga, Portugal 📍 🇵🇹
+
 I've got a bachelors (ISEP), and a masters (FEUP) in software engineering 🎓
 
 I’ve made several internships in both industrial and academia 📡 
