@@ -15,18 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoBastos&show_icons=true&theme=tokyonight)](https://github.com/FranciscoBastos/FranciscoBastos) -->
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=FranciscoBastos&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=FranciscoBastos&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=FranciscoBastos&show_icons=true&theme=tokyonight" />
+  </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FranciscoBastos&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FranciscoBastos&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=FranciscoBastos&show_icons=true" />
-</picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBastos&layout=donut&theme=tokyonight)](https://github.com/FranciscoBastos/FranciscoBastos)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBastos&layout=donut)](https://github.com/FranciscoBastos/FranciscoBastos)
+</div>
