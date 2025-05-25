@@ -32,4 +32,7 @@ Here are some ideas to get you started:
 
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/{FranciscoBastos}/count.svg)
+<div align="center">
+  <p><strong>Visitor Count</strong></p>
+  <img src="https://profile-counter.glitch.me/{FranciscoBastos}/count.svg" alt="Visitor Count" />
+</div>
