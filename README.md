@@ -59,7 +59,8 @@ Currently, I'm working on Multi-Model Synthetic Sensor Data Generation, for Auto
 
 </div>
 
-<h3 align="center"><strong> You are visitor number: <strong></h3>
+<h3 align="center"><strong>You are visitor number:</strong></h3>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{FranciscoBastos}/count.svg" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FranciscoBastos.visitor-badge&left_color=red&right_color=green" alt="Visitor Count" />
 </div>
+
