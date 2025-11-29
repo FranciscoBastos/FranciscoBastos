@@ -31,20 +31,29 @@ Currently, I'm working on Multi-Model Synthetic Sensor Data Generation, for Auto
 
 <h2 align="left"><strong>Stats 📈</strong></h2>
 <h3><strong>Personal Projects General Summary</strong></h3>
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=FranciscoBastos&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=FranciscoBastos&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
 
 <h3><strong>Currently Most Used Languages</strong></h3>
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=FranciscoBastos&layout=donut&theme=tokyonight" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=FranciscoBastos&layout=donut&theme=tokyonight" alt="Top Languages" />
+</div>
 
 <h2 align="center"><strong> Find me at: </strong></h2>
 <div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-FranciscoBastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-jos%C3%A9-fortuna-bastos-031369160/)](https://www.linkedin.com/in/francisco-jos%C3%A9-fortuna-bastos-031369160/) [![Facebook Badge](https://img.shields.io/badge/-FranciscoBastos-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/francisco.bastos.9022)](https://www.facebook.com/francisco.bastos.9022) [![Instagram Badge](https://img.shields.io/badge/-FranciscoBastos-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/francisco_jf_bastos/)](https://www.instagram.com/francisco_jf_bastos/)
-
+  <a href="https://www.linkedin.com/in/francisco-jos%C3%A9-fortuna-bastos-031369160/">
+    <img src="https://img.shields.io/badge/-FranciscoBastos-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
+  </a>
+  <a href="https://www.facebook.com/francisco.bastos.9022">
+    <img src="https://img.shields.io/badge/-FranciscoBastos-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook Badge" />
+  </a>
+  <a href="https://www.instagram.com/francisco_jf_bastos/">
+    <img src="https://img.shields.io/badge/-FranciscoBastos-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
 </div>
 
 <h3 align="center"><strong>You are visitor number:</strong></h3>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FranciscoBastos.visitor-badge&left_color=red&right_color=green" alt="Visitor Count" />
 </div>
-
