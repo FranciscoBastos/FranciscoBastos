@@ -29,28 +29,12 @@ Currently, I'm working on Multi-Model Synthetic Sensor Data Generation, for Auto
 - Sports 🏉.
 - Small adventures 🏔️.
 
-<div align="left" style="margin-bottom: 40px;">
-<h2 align="left"> <strong> Stats 📈 <strong> </h2>
-<h3> Personal Projects General Summary <h3>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=FranciscoBastos&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=FranciscoBastos&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=FranciscoBastos&show_icons=true&theme=tokyonight" />
-  </picture>
-</div>
+<h2 align="left"><strong>Stats 📈</strong></h2>
+<h3><strong>Personal Projects General Summary</strong></h3>
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=FranciscoBastos&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-<h3> <strong> Currently Most Used Languages </strong> </h3>
-<div align="left" style="margin-bottom: 40px;">
-  <a href="https://github.com/FranciscoBastos/FranciscoBastos">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBastos&layout=donut&theme=tokyonight" alt="Top Langs" />
-  </a>
-</div>
+<h3><strong>Currently Most Used Languages</strong></h3>
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=FranciscoBastos&layout=donut&theme=tokyonight" alt="Top Languages" />
 
 <h2 align="center"><strong> Find me at: </strong></h2>
 <div align="center">
